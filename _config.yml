@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: https://www.geldisfun.nl
 baseurl: '/blog'
-google_analytics: ''
+google_analytics: 'G-T42SXQEESB'
 disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
