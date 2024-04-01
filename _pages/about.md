@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Fun met Geld
 permalink: /about
 comments: false
 ---
