@@ -1,10 +1,10 @@
 # Site
 name: "GeldIsFun"
 title: "GeldIsFun"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Omdat Geld ook gewoon leuk kan zijn!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: https://geldisfun.nl
+url: https://www.geldisfun.nl
 baseurl: '/blog'
 google_analytics: ''
 disqus: 'demowebsite'
