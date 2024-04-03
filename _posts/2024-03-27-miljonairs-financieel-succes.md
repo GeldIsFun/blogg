@@ -5,6 +5,7 @@ excerpt: "Ontdek de strategieën en mindset van miljonairs die hebben geleid tot
 seo_title:  "De Geheimen van Financieel Succes: Lessen van Miljonairs"
 seo_description: "Leer de geheimen van financieel succes kennen door de strategieën en mindset van miljonairs te ontdekken. Ontdek praktische lessen en inzichten die je kunt toepassen om je eigen financiële doelen te bereiken."
 author: Victor
+featured: true
 categories: [Financieel Succes, Miljonairs, Persoonlijke Financiën]
 image: assets/images/2024-03-27-miljonairs-financieel-succes.jpg
 ---
