@@ -2,6 +2,7 @@
 layout: page
 title: Fun met Geld
 permalink: /about
+sitemap: false
 comments: false
 ---
 

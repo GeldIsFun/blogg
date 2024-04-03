@@ -1,0 +1,27 @@
+
+
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-sm-6 text-center text-lg-left">
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
+            </div>
+            <div class="col-md-6 col-sm-6 text-center text-lg-right">    
+                <a target="_blank" href="https://www.GeldIsFun.nl/">GeldIsFun</a> Omdat Geld ook gewoon leuk kan zijn!
+            </div>
+        </div>
+        <!-- New section for "About" -->
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3>About This Website</h3>
+                <ul class="footer-links" style="list-style-type: none; padding: 0;">
+                    <li><a href="{{ site.baseurl | prepend: '/' | replace: '//', '/' }}/about">About Us</a></li>
+                    <li><a href="{{ site.baseurl | prepend: '/' | replace: '//', '/' }}/contact">Contact</a></li>
+                    <li><a href="{{ site.baseurl | prepend: '/' | replace: '//', '/' }}/disclaimer">Disclaimer</a></li>
+                    <li><a href="{{ site.baseurl | prepend: '/' | replace: '//', '/' }}/privacy">Privacy and Cookies</a></li>
+                    <li><a href="{{ site.baseurl | prepend: '/' | replace: '//', '/' }}/algemene-voorwaarden">Algemene voorwaarden</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

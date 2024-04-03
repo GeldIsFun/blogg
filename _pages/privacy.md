@@ -2,11 +2,11 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy
+sitemap: false
+comments: false
 ---
 
-# Privacy Policy
-
-Laatst bijgewerkt: [Datum]
+Laatst bijgewerkt: 2024-04-03
 
 [GeldIsFun] ("ons", "wij" of "onze") exploiteert de website [www.geldisfun.nl] (de "Dienst").
 
