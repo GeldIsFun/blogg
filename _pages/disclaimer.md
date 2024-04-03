@@ -16,4 +16,4 @@ Elke poging om zonder toestemming van GeldIsFun in te breken in of schade toe te
 
 We doen er alles aan om de website draaiende te houden en soepel te laten verlopen. Echter, GeldIsFun neemt geen verantwoordelijkheid voor, en zal niet aansprakelijk worden gesteld voor, de website tijdelijk niet beschikbaar zijn vanwege technische problemen buiten onze controle.
 
-Voor meer informatie kunt u contact met ons opnemen via de [contactpagina]({{ site.baseurl | prepend: '/' | replace: '//', '/' }}/contact).
+Voor meer informatie kunt u contact met ons opnemen via de [contactpagina]({{ site.baseurl }}/contact).

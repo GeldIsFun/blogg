@@ -18,5 +18,5 @@ comments: false
 
 6. Wij behouden ons het recht voor om deze algemene voorwaarden op elk moment en zonder voorafgaande kennisgeving te wijzigen. Het is jouw verantwoordelijkheid om regelmatig de voorwaarden te controleren op eventuele wijzigingen.
 
-7. Als je vragen hebt over deze algemene voorwaarden, neem dan contact met ons op via de [contactpagina]({{ site.baseurl | prepend: '/' | replace: '//', '/' }}/contact).
+7. Als je vragen hebt over deze algemene voorwaarden, neem dan contact met ons op via de [contactpagina]({{ site.baseurl }}/contact).
 
