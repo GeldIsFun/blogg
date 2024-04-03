@@ -30,6 +30,7 @@ plugins:
     
 # Archives
 jekyll-archives:
+  sitemap: false
   enabled:
     - categories
   layout: archive
