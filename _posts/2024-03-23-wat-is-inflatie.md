@@ -6,7 +6,7 @@ seo_title:  "Wat is inflatie? Begrijp de impact op je portemonnee"
 seo_description: "Lees waarom de prijzen stijgen en waarom een oma zegt: 'Vroeger kostte dat maar een paar gulden'. Ontdek de rol van de Europese Centrale Bank (ECB) en leer hoe inflatie jouw geld beïnvloedt."
 author: Victor
 categories: [Economie, Financiën, Inflatie, Uitleg]
-image: assets/images/inflatie.jpg
+image: assets/images/wat-is-inflatie.jpg
 ---
 
 # Wat is inflatie? Begrijp de impact op je portemonnee
