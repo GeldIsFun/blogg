@@ -4,7 +4,7 @@ title: "GeldIsFun"
 description: "Omdat Geld ook gewoon leuk kan zijn!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-url: https://www.geldisfun.nl
+url: https://geldisfun.nl
 baseurl: '/blog'
 locale: 'nl_NL'
 google_analytics: 'G-T42SXQEESB'
