@@ -5,6 +5,7 @@ excerpt: "Ontdek handige tips en strategieën om succesvol een nieuwe baan te vi
 seo_title:  "Hoe vind ik een nieuwe baan? 7 tips"
 seo_description: "Hoe vind ik een nieuwe baan? Hoe vind ik nieuw werk? 7 handige tips voor een nieuwe job!"
 author: Victor
+featured: true
 categories: [Solliciteren, Carrière, Werk, Uitleg]
 image: assets/images/werk-zoeken.jpg
 ---

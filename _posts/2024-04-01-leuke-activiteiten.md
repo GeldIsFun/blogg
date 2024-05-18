@@ -5,6 +5,7 @@ excerpt: "Ontdek leuke activiteiten en hobby's die je kunt genieten zonder je po
 seo_title:  "Geld Is Fun: Leuke Activiteiten en Hobby's Die Je Kunt Doen Zonder Veel Geld Uit te Geven"
 seo_description: "Wat zijn goedkope activiteiten? Wat is gratis om te doen? Ontdek een scala aan leuke activiteiten en hobby's die je kunt genieten zonder veel geld uit te geven. Van wandelen en picknicken tot knutselen en tuinieren, er zijn tal van betaalbare manieren om plezier te hebben en te ontspannen."
 author: Victor
+featured: true
 categories: [Levensstijl, Financiën, Vrije Tijd]
 image: assets/images/2024-04-01-leuke-activiteiten.jpg
 ---
