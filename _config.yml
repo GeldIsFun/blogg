@@ -7,6 +7,7 @@ favicon: 'assets/images/favicon.ico'
 url: https://geldisfun.nl
 baseurl: '/blog'
 locale: 'nl_NL'
+lang: 'nl'
 google_analytics: 'G-T42SXQEESB'
 disqus: 'demowebsite'
 include: ["_pages"]
@@ -59,6 +60,6 @@ adsense-data-ad-slot: ""
 
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
